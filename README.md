@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 3 code challenges I have completed:
+These are the 5 code challenges I have completed:
 ## Fundamentals
 
+- [Build a pile of Cubes](./Katas/build-a-pile-of-cubes)
+- [Vowel Count](./Katas/vowel-count)
 - [Descending Order](./Katas/descending-order)
 ## Algorithms
 
