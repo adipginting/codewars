@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 10 code challenges I have completed:
+These are the 11 code challenges I have completed:
 ## Fundamentals
 
 - [Get the Middle Character](./Katas/get-the-middle-character)
@@ -9,6 +9,7 @@ These are the 10 code challenges I have completed:
 - [Descending Order](./Katas/descending-order)
 ## Algorithms
 
+- [ROT13](./Katas/rot13)
 - [Find the missing letter](./Katas/find-the-missing-letter)
 - [Does my number look big in this?](./Katas/does-my-number-look-big-in-this)
 - [Human Readable Time](./Katas/human-readable-time)
